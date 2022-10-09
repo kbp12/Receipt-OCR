@@ -17,6 +17,9 @@ accounting, and taxation areas.
 
 #### Key learnings
 [1] Understanding Object detection
+
 [2] Understanding how to use pre-trained models of YOLO
+
 [3] Training Custom Object Detector with YOLO
+
 [4] Understanding Text extraction using Tesseract
